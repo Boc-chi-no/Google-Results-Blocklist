@@ -1,0 +1,11 @@
+@1*://*.microsoft.com/*
+@1*://*.google.com/*
+@1*://developer.mozilla.org/*
+@1*://*.office.com/*
+@1*://*.lioat.cn/*
+@1*://github.com/*
+@1*://gist.github.com/*
+@1*://stackoverflow.com/*
+@1*://*.wikipedia.org/*
+@1*://*.w3.org/*
+@1*://kris.run/*
